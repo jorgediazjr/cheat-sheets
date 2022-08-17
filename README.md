@@ -1,3 +1,3 @@
 ### Cheat Sheets
 
-[Elm](/elm)
+- [Elm](/elm)
