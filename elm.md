@@ -6,6 +6,9 @@
 
 ### Math Operations
 ```elm
+{--
+ADDING
+--}
 addTwoIntegers : Int -> Int -> Int
 addTwoIntegers number1 number2 = number1 + number2
 
