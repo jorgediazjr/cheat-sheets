@@ -1,8 +1,10 @@
-### ELM
+## ELM
+- [Installation](/elm.md#installation)
+- [Math Operations](/elm.md#math-operations)
 
-#### Install Elm
+### Installation
 
-#### Math Operations
+### Math Operations
 ```elm
 addTwoIntegers : Int -> Int -> Int
 addTwoIntegers number1 number2 = number1 + number2
